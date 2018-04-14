@@ -1,0 +1,10 @@
+:root{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+article{
+    border-left: 10px solid royalblue;
+    padding: 10px;
+    background: skyblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
