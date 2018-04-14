@@ -2,9 +2,25 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 article{
-    border-left: 10px solid royalblue;
+    border-left: 10px solid yellow;
     padding: 10px;
     background: pink;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+td, th /* Asigna un borde a las etiquetas td Y th */
+{
+    border: 1px solid black;
+}
+article .subtit {
+	color: white;
+	font-size: 30px;	
+    background: red;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
