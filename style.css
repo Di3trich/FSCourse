@@ -4,6 +4,13 @@
 article{
     border-left: 10px solid yellow;
     padding: 10px;
+    background: skyblue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+article .subtit {
+	color: white;
+	font-size: 30px;	
     background: red;
     margin-top: 15px;
     margin-bottom: 15px;
