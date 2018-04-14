@@ -4,9 +4,18 @@
 article{
     border-left: 10px solid yellow;
     padding: 10px;
-    background: skyblue;
+    background: silver;
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+table
+{
+    border-collapse: collapse;
+}
+td, th /* Asigna un borde a las etiquetas td Y th */
+{
+    border: 1px solid black;
 }
 article .subtit {
 	color: white;
