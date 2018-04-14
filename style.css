@@ -8,3 +8,8 @@ article{
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+h1 {
+	color:blue;
+	font-family:georgia;
+}
